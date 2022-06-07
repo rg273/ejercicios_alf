@@ -16,16 +16,18 @@
 #     j+=1
 
 # 4
-# ganadorenro=[]
+# ganadornro=[]
 # for i in range(0,5):
-#     ganadorenro.append(input("cuales son los numeros ganadores:  "))
-# print("Los nro ganadores de la loteria son:  ",ganadorenro)
+#     ganadornro.append(int(input("cuales son los numeros ganadores:  ")))
+
+# ganadornro.sort()
+# print("Los nro ganadores de la loteria son:  ",ganadornro)
 
 # 5
 # lista = []
 # for i in range(0,11):
 #     lista.append(i)
-    
+
 # lista.sort(reverse=True)
 # print(lista)
 
